@@ -15,6 +15,11 @@ img {
 h1 {
     color: crimson;
 }
-body {
-    background-color: rgb(255, 183, 0);
+ 
+.container-fluid {
+background-color: rgb(0, 0, 0);
+outline: 0cqb;
+}
+div {
+color: rgb(255, 183, 0);
 }
